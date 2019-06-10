@@ -85,7 +85,7 @@ defined. If you want to test a single `WebElement`, you may pass it into
      2. mvn test -PRunTest
   2. To run all scenarios use command : mvn test -PRunTest
 
-  ##  Documentation related to AXE can be founc in :
+  ##  Documentation related to AXE can be found in :
        https://www.deque.com/axe/axe-for-web/documentation/api-documentation/#api-name-axegetrules
 
 
