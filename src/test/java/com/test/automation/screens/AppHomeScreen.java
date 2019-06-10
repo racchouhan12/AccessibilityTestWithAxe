@@ -1,6 +1,5 @@
 package com.test.automation.screens;
 
-import org.junit.Assert;
 
 public class AppHomeScreen extends BaseScreen {
 
