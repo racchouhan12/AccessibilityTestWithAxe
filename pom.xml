@@ -22,7 +22,7 @@
         <cucumber.junit.version>1.2.5</cucumber.junit.version>
         <cucumber.core.version>1.2.5</cucumber.core.version>
         <cucumber.reporting.version>3.19.0</cucumber.reporting.version>
-        <log4j.reporting.version>2.11.1</log4j.reporting.version>
+        <log4j.reporting.version>2.16.0</log4j.reporting.version>
         <cucumber.jvm.parallel.plugin>2.1.0</cucumber.jvm.parallel.plugin>
         <jars>${project.build.directory}/lib</jars>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
